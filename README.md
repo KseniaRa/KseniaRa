@@ -14,7 +14,6 @@
 ![AllureReport](https://user-images.githubusercontent.com/52957959/136422854-cb9dfc01-60b9-4000-8e00-61a66c275db2.png)
 
 
-
-[![Ksenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniaRa)](https://github.com/KseniaRa/github-readme-stats)
+![Ksenia's  GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniaRa&show_icons=true&theme=merko)
 
 
