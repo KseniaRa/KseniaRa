@@ -1,7 +1,7 @@
 ### Hello 🖖
 
- - I am an QA engineer. I have been working for two years.
- - I am currently studing test automation at QA GURU.
+ - I am an QA engineer.
+ - Git for study projects
 
 
 
